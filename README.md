@@ -7,4 +7,4 @@ Our goal is to create a `develop` branch.
 
 We mean to back-merge `release` into `develop`.
 
-Here lies a new change, pointed at `develop`.
+~Here lies a new change, pointed at `develop`.~
