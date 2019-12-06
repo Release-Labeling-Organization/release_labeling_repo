@@ -6,3 +6,5 @@ Here lies a change. And yet another one.
 Our goal is to create a `release` branch.
 
 Our goal is to create a `develop` branch. 
+
+We mean to back-merge `release` into `develop`.
