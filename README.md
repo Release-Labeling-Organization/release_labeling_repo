@@ -13,4 +13,6 @@ We are merging `develop` into `release`.
 
 ~Make a change to `develop`.~
 
-Commit changes directly to `release`.
+~~Commit changes directly to `release`.~~
+
+Commit changes to `release`.
